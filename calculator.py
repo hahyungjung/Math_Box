@@ -5,4 +5,7 @@ def add(a, b):
 def subtract(a, b):
 	return a-b
 
+
+def print(a, b):
+	print("Hello")
 	
